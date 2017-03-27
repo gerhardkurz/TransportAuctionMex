@@ -33,7 +33,8 @@ For further information, take a look at the included demo, which can be run usin
 
 	>> demo
 
-![demo](demo.png)
+![demo1](demo1.png)
+![demo2](demo2.png)
 
 License
 -------
